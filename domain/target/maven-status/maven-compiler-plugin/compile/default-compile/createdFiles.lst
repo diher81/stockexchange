@@ -1,0 +1,4 @@
+domain\StockCurrency.class
+domain\StockPrice.class
+domain\Stock.class
+domain\StockRepository.class

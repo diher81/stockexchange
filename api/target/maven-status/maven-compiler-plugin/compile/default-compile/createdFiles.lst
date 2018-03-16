@@ -1,0 +1,3 @@
+api\StockDto.class
+api\StockMapper.class
+api\StockExchangeController.class
